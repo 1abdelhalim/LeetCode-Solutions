@@ -5,6 +5,7 @@ class Solution:
         sett = {".", "", ".."}
 
         path = path.split("/")
+
         for ch in path:
             if stack and ch == "..":
                 stack.pop()
@@ -12,3 +13,4 @@ class Solution:
                 stack.append(ch)
 
         return "/" + "/".join(stack)
+        
