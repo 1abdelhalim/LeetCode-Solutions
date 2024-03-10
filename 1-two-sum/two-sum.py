@@ -3,7 +3,10 @@ class Solution:
         comps = {}
 
         for i, num in enumerate(nums):
-            comp = target - num 
+            comp = target - num
             if comp in comps:
                 return [comps[comp], i]
-            comps[num] = i
+
+            comps[num] = i 
+
+    
