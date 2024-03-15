@@ -1,8 +1,18 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        found = False 
-        if target in nums:
-            found = True
+        n = len(nums)
+        low = 0 
+        high = n-1 
 
-        return nums.index(target) if found else  -1
+        while low <= high:
+            mid = (low + high) // 2
+
+            if nums[mid] == target:
+                return mid 
+            elif nums[mid] < target:
+                low = mid + 1 
+            else:
+                high = mid -1 
+
+        return -1 
 
