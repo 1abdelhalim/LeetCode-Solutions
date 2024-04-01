@@ -9,5 +9,3 @@ class Solution:
             nums[i+1] = temp 
 
         return nums
-
-       
