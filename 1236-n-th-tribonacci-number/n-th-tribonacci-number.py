@@ -1,15 +1,17 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        def trib_memo(n, memo={}):  # Added colon here
-            if n in memo:
-                return memo[n]
-            if n <= 1:
-                return n
-            if n == 2:
-                return 1 
+        if n == 0:
+            return 0
+        if n == 1 or n == 2:
+            return 1 
+        
+        a = 0 
+        b = 1
+        c = 1
 
-            memo[n] = trib_memo(n-1) + trib_memo(n-2) + trib_memo(n-3)
-
-            return memo[n]
-
-        return trib_memo(n) 
+        for i in range(3, n+1):
+            temp = a + b + c 
+            a = b 
+            b = c 
+            c = temp
+        return c 
