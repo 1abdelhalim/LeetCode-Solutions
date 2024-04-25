@@ -1,17 +1,9 @@
 class Solution:
     def tribonacci(self, n: int) -> int:
-        if n == 0:
-            return 0
-        if n == 1 or n == 2:
-            return 1 
-        
-        a = 0 
-        b = 1
-        c = 1
+        T = [0] * 38 
+        T[1] = T[2] = 1 
 
         for i in range(3, n+1):
-            temp = a + b + c 
-            a = b 
-            b = c 
-            c = temp
-        return c 
+            T[i] = T[i-1] + T[i-2] + T[i-3]
+        
+        return T[n]
