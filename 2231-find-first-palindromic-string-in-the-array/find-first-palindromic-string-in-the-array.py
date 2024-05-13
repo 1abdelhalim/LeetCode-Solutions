@@ -1,7 +1,4 @@
 class Solution:
     def firstPalindrome(self, words: List[str]) -> str:
-        for word in words:
-            if word == word[::-1]:
-                return word
-
-        return ""
+        palindrome = next(filter(lambda x: x == x[::-1], words), "")
+        return palindrome
