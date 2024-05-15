@@ -1,6 +1,9 @@
 class Solution:
-    def fib(self, n: int) -> int:
+    def fib(self, n: int, memo = {}) -> int:
         if n == 0 or n == 1:
             return n 
 
-        return self.fib(n-1) + self.fib(n-2)
+        if not memo.get(n):
+            memo[n] = self.fib(n-1, memo) + self.fib(n-2, memo)
+
+        return memo[n]
