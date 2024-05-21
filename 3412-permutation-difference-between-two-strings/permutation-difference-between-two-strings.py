@@ -12,5 +12,4 @@ class Solution:
         for char in s:
             ans += abs(s_indeces[char] - t_indeces[char])
 
-        return ans
-            
+        return ans      
