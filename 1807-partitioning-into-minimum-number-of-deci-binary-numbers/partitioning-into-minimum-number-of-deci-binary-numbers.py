@@ -1,7 +1,3 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        ans = float('-inf')
-        for dig in n:
-            ans = max(ans, int(dig))
-
-        return ans
+        return max(int(digit) for digit in n)
