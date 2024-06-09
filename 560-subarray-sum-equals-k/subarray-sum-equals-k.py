@@ -5,14 +5,9 @@ class Solution:
         prefix_sum_count = {0: 1}  
         
         for num in nums:
-            curr_sum += num  
-           
-            if (curr_sum - k) in prefix_sum_count:
-                count += prefix_sum_count[curr_sum - k]
-            
-            if curr_sum in prefix_sum_count:
-                prefix_sum_count[curr_sum] += 1
-            else:
-                prefix_sum_count[curr_sum] = 1
-        
+            curr_sum += num
+            diff = curr_sum - k
+            count += prefix_sum_count.get(diff,0)
+            prefix_sum_count[curr_sum] = prefix_sum_count.get(curr_sum, 0 ) +1 
+
         return count
