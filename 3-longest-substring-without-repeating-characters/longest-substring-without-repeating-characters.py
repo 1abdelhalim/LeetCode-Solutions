@@ -6,12 +6,13 @@ class Solution:
 
         i = 0
         longest = 0
+        ch_idx = {}
 
         for j in range(n):
-            for k in range(i, j):
-                if s[k] == s[j]:
-                    i = k + 1
-                    break
+            if s[j] in ch_idx and ch_idx[s[j]] >= i:
+                i = ch_idx[s[j]] + 1
+
+            ch_idx[s[j]] = j
             longest = max(longest, j - i + 1)
 
         return longest
