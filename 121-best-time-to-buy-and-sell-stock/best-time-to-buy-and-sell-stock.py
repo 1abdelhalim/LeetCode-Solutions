@@ -4,13 +4,11 @@ class Solution:
         if n < 2:
             return 0
 
-        l = 0  
+        min_price = prices[0]
         max_profit = 0
+        
+        for i in range(1, n):
+            max_profit = max(max_profit, prices[i] - min_price)
+            min_price = min(min_price, prices[i])
 
-        for r in range(1, n):  
-            if prices[r] > prices[l]:
-                curr_profit = prices[r] - prices[l]
-                max_profit = max(max_profit, curr_profit)
-            else:
-                l = r 
         return max_profit
