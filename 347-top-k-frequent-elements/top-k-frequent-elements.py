@@ -1,10 +1,11 @@
-from collections import Counter
+from collections import Counter 
+import heapq
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        freq = {}
-        for num in nums:
-            freq[num] = freq.get(num, 0) + 1
-            
-        sorted_freq = sorted(freq.items(), key=lambda x: x[1], reverse=True)
-
-        return [item[0] for item in sorted_freq[:k]]
+        counter = Counter(nums)
+        freq_heap = [(-freq, num) for num, freq in counter.items()]
+       
+        top_freq = heapq.nsmallest(k, freq_heap)
+        
+        return [num for freq, num in top_freq]
