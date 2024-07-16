@@ -2,7 +2,7 @@ class Solution:
     def missingNumber(self, nums: List[int]) -> int:
         set_nums = set(nums)
         n = len(nums)
+        expexted_sum = n * (n+1) // 2 
+        curr_sum = sum(nums)
 
-        for i in range(n+1):
-            if i not in set_nums:
-                return i 
+        return expexted_sum - curr_sum
