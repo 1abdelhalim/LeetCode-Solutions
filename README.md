@@ -16,4 +16,9 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
+| [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
