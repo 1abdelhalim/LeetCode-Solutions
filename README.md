@@ -12,6 +12,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0476-number-complement](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -46,5 +47,6 @@ This repository contains solutions for problems found on LeetCode.
 ## Math
 |  |
 | ------- |
+| [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
