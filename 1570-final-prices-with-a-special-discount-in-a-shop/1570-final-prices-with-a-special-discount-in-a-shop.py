@@ -1,14 +1,14 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
-        result = prices
+        result = prices[:]
         n = len(prices)
+        stack = []
 
-        for i in range(n-1):
-            for j in range(i+1, n):
-                if prices[i] >= prices[j]:
-                    result[i] = (prices[i] - prices[j])
-                    break 
+        for i in range(n):
+            while stack and prices[stack[-1]] >= prices[i]:
+                idx = stack.pop()
+                result[idx] = prices[idx] - prices[i]
 
-        return result
+            stack.append(i)
 
-                
+        return result 
