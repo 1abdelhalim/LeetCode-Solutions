@@ -7,6 +7,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -27,6 +28,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
@@ -100,6 +102,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
