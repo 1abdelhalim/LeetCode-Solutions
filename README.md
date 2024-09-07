@@ -9,6 +9,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
