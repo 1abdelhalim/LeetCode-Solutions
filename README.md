@@ -14,6 +14,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -126,6 +127,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
@@ -139,6 +141,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
