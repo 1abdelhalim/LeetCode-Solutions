@@ -92,6 +92,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -211,4 +212,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
