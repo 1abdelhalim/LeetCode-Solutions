@@ -45,6 +45,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2122-count-special-quadruplets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -131,6 +132,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
@@ -195,6 +197,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Sliding Window
 |  |
 | ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Linked List
 |  |
