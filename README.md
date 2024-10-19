@@ -99,6 +99,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -225,6 +226,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Number Theory
 |  |
 | ------- |
