@@ -7,6 +7,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -100,6 +101,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -142,6 +144,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
