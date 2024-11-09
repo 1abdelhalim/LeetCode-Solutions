@@ -15,6 +15,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -116,6 +117,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2122-count-special-quadruplets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
