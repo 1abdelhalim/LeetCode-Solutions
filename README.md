@@ -29,6 +29,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Heap (Priority Queue)
@@ -208,6 +210,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Linked List
 |  |
 | ------- |
