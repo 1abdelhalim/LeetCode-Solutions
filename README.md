@@ -6,6 +6,7 @@ This repository contains solutions for problems found on LeetCode.
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -254,4 +255,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
