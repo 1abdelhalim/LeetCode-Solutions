@@ -8,6 +8,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
@@ -24,6 +25,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
@@ -126,6 +128,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -140,6 +143,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
