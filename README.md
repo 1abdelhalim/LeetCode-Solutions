@@ -25,6 +25,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -166,6 +167,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 ## Stack
 |  |
