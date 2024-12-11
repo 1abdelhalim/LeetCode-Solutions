@@ -10,6 +10,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -40,6 +41,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
@@ -140,6 +142,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -227,6 +230,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Sliding Window
 |  |
