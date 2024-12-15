@@ -12,6 +12,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -302,4 +303,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
