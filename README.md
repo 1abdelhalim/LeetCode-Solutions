@@ -98,6 +98,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,6 +187,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -224,6 +226,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Depth-First Search
