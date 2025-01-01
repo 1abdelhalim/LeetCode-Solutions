@@ -44,6 +44,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -77,6 +78,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -174,6 +176,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
