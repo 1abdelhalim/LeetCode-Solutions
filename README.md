@@ -15,6 +15,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1899-count-items-matching-a-rule) |
@@ -324,4 +325,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
