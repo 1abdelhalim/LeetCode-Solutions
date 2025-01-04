@@ -329,4 +329,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Concurrency
+|  |
+| ------- |
+| [1340-the-dining-philosophers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1340-the-dining-philosophers) |
 <!---LeetCode Topics End-->
