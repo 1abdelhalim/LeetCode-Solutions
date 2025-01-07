@@ -1,12 +1,8 @@
 class Solution:
     def stringMatching(self, words: List[str]) -> List[str]:
+        s = ' '.join(words)
         result = []
-
-        n = len(words)
-
-        for i in range(n):
-            for j in range(n):
-                if words[i] in words[j] and words[i] != words[j]:
-                    result.append(words[i])
-
-        return list(set(result))
+        for w in words:
+            if s.count(w) > 1:
+                result.append(w)
+        return result
