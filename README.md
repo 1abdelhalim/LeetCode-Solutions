@@ -15,6 +15,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -58,6 +59,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -327,6 +329,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
