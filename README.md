@@ -26,6 +26,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -75,6 +76,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -261,6 +263,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,15 +324,18 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
