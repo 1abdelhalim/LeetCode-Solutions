@@ -59,6 +59,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -199,6 +200,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -245,6 +247,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -254,6 +257,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -261,6 +265,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Trie
 |  |
@@ -352,4 +357,8 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [1203-print-in-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1203-print-in-order) |
 | [1340-the-dining-philosophers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1340-the-dining-philosophers) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
