@@ -48,6 +48,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -325,6 +326,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
