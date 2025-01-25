@@ -152,6 +152,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1585-the-kth-factor-of-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1965-sum-of-digits-in-base-k](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1965-sum-of-digits-in-base-k) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
