@@ -83,6 +83,7 @@ This repository contains solutions for problems found on LeetCode.
 | [3206-find-common-elements-between-two-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3429-special-array-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
