@@ -146,6 +146,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -293,6 +294,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 ## Brainteaser
@@ -327,6 +329,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
