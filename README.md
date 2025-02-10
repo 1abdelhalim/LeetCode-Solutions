@@ -14,6 +14,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -117,6 +118,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 ## Binary Search Tree
 |  |
@@ -124,6 +126,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -180,6 +183,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
