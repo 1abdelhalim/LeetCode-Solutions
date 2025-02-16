@@ -49,6 +49,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -200,6 +201,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -382,4 +384,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
