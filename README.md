@@ -83,6 +83,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2210-find-target-indices-after-sorting-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
+| [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -228,6 +229,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
@@ -351,6 +353,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Rolling Hash
 |  |
