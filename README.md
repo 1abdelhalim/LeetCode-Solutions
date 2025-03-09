@@ -34,6 +34,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
@@ -50,6 +51,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
@@ -394,4 +396,5 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
