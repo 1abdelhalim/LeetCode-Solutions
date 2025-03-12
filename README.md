@@ -86,6 +86,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -136,6 +137,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +278,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1786-count-the-number-of-consistent-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Depth-First Search
 |  |
 | ------- |
