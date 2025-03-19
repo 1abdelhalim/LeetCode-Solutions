@@ -405,4 +405,8 @@ This repository contains solutions for problems found on LeetCode.
 | [0077-combinations](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
