@@ -418,6 +418,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
