@@ -65,6 +65,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
+| [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
@@ -138,6 +139,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -168,6 +170,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
@@ -390,6 +393,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Prefix Sum
 |  |
 | ------- |
+| [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -415,4 +419,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
