@@ -429,6 +429,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0183-customers-who-never-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0607-sales-person) |
+| [1174-sales-analysis-iii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
 ## Randomized
