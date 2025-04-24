@@ -433,6 +433,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0607-sales-person](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0607-sales-person) |
 | [1174-sales-analysis-iii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
+| [1541-top-travellers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1541-top-travellers) |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
 ## Randomized
 |  |
