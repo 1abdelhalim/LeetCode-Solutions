@@ -9,6 +9,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0093-restore-ip-addresses](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -60,6 +61,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -199,6 +201,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -311,6 +314,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -330,6 +334,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -367,6 +372,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
