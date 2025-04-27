@@ -447,6 +447,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1734-bank-account-summary-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1734-bank-account-summary-ii) |
 | [1948-rearrange-products-table](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
+| [2041-the-latest-login-in-2020](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2041-the-latest-login-in-2020) |
 ## Randomized
 |  |
 | ------- |
