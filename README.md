@@ -448,6 +448,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1948-rearrange-products-table](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2041-the-latest-login-in-2020) |
+| [3767-find-students-who-improved](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3782-find-valid-emails) |
 ## Randomized
 |  |
