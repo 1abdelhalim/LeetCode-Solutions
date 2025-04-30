@@ -452,6 +452,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2041-the-latest-login-in-2020](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2041-the-latest-login-in-2020) |
 | [3767-find-students-who-improved](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3782-find-valid-emails) |
+| [3848-analyze-subscription-conversion](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3848-analyze-subscription-conversion) |
 ## Randomized
 |  |
 | ------- |
