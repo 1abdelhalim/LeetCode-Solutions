@@ -44,6 +44,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
