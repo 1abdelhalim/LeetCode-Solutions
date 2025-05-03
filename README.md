@@ -448,6 +448,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0184-department-highest-salary](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0607-sales-person) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1174-sales-analysis-iii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1268-market-analysis-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1268-market-analysis-i) |
