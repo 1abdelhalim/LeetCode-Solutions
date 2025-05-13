@@ -1,6 +1,8 @@
 # LeetCode-Problems
 This repository contains solutions for problems found on LeetCode. 
 
+![](LeetCode_Logo_black_with_text.svg.png)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
