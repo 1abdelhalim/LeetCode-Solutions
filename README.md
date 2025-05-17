@@ -81,6 +81,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
+| [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -254,6 +255,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
@@ -326,6 +328,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
