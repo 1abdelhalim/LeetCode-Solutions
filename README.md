@@ -315,6 +315,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -326,6 +327,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -490,5 +492,10 @@ This repository contains solutions for problems found on LeetCode.
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
