@@ -125,6 +125,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -322,6 +323,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -336,6 +338,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -500,10 +503,15 @@ This repository contains solutions for problems found on LeetCode.
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
