@@ -88,6 +88,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -130,6 +131,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
+| [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -509,6 +511,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
@@ -518,4 +521,5 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+| [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
