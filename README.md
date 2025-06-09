@@ -335,6 +335,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -352,6 +353,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Trie
@@ -518,12 +520,14 @@ This repository contains solutions for problems found on LeetCode.
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Shortest Path
 |  |
 | ------- |
