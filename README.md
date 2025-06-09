@@ -19,6 +19,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -79,6 +80,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -223,6 +225,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -247,6 +250,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -326,6 +330,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -341,6 +346,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -456,6 +462,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 ## Backtracking
 |  |
