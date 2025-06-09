@@ -110,6 +110,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -135,6 +136,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Tree
@@ -269,6 +271,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -359,6 +362,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Trie
 |  |
 | ------- |
@@ -527,6 +531,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -538,4 +543,5 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
