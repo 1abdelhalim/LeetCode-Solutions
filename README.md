@@ -72,6 +72,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0414-third-maximum-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0506-relative-ranks) |
@@ -266,6 +267,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
@@ -332,6 +334,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -350,6 +353,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -388,6 +392,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
@@ -426,6 +431,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 ## Two Pointers
 |  |
@@ -526,6 +532,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
@@ -537,6 +544,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 ## Shortest Path
 |  |
