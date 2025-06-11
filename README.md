@@ -70,6 +70,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -266,6 +267,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -332,6 +334,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -351,6 +354,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -476,6 +480,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0770-couples-holding-hands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
