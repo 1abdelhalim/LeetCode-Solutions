@@ -62,6 +62,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -255,6 +256,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -452,6 +454,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
