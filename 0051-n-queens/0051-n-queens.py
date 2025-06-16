@@ -1,33 +1,42 @@
 class Solution:
     def solveNQueens(self, n: int) -> List[List[str]]:
         result = []
-        
-        board = [['.'] * n for _ in range(n)]  
+        board = [["."] * n for i in range(n)] #n*n baord
         cols = set()
-        diag_pos = set()
-        diag_neg = set()
+        rows = set()
+        diags_pos = set()
+        diags_neg = set()
+
+        # define backrack function 
 
         def backtrack(r):
+            # base case 
+            # if valid, append and return
+
             if r == n:
-                result.append([''.join(row) for row in board])
+                result.append(["".join(row) for row in board])
                 return 
 
+
+            # iterate 
+
             for col in range(n):
-                if col in cols or (r - col) in diag_neg or (r + col) in diag_pos:
-                    continue 
+                # check if valid 
+                if col in cols or (r+col) in diags_pos or (r-col) in diags_neg:
+                    continue # skip this 
 
                 cols.add(col)
-                diag_pos.add(r + col)
-                diag_neg.add(r - col)
-                board[r][col] = 'Q'
+                diags_pos.add(r+col)
+                diags_neg.add(r-col)
+                board[r][col] = "Q" 
 
-                backtrack(r + 1)
-
+                # go a foraward step 
+                backtrack(r+1)
                 cols.remove(col)
-                diag_pos.remove(r + col)
-                diag_neg.remove(r - col)
-                board[r][col] = '.'
+                diags_pos.remove(r+col)
+                diags_neg.remove(r-col)
+                board[r][col] = "." 
 
-        backtrack(0)
-        return result
-
+        backtrack(0) #index
+        return result 
+            
