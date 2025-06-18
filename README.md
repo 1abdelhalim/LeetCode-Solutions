@@ -164,6 +164,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 ## Binary Search Tree
@@ -239,6 +240,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
@@ -310,6 +312,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0503-next-greater-element-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -577,4 +580,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
