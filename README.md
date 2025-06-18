@@ -18,6 +18,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -152,6 +153,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -164,6 +166,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
@@ -173,6 +176,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -185,6 +189,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0654-maximum-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -356,6 +361,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
@@ -376,6 +382,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
