@@ -91,6 +91,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0733-flood-fill) |
+| [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0890-lemonade-change](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0917-boats-to-save-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0917-boats-to-save-people) |
@@ -212,6 +213,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0319-bulb-switcher](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -595,4 +597,8 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
