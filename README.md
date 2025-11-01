@@ -117,6 +117,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2122-count-special-quadruplets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -174,6 +175,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
+| [2169-simple-bank-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -260,6 +262,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2122-count-special-quadruplets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -306,6 +309,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2169-simple-bank-system) |
 | [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
