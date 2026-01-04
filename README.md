@@ -104,6 +104,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1390-four-divisors](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1505-create-target-array-in-the-given-order](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
@@ -222,6 +223,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
+| [1390-four-divisors](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1585-the-kth-factor-of-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1610-xor-operation-in-an-array) |
