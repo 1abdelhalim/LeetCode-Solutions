@@ -167,6 +167,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -204,6 +205,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0789-kth-largest-element-in-a-stream](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0930-all-possible-full-binary-trees) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -383,6 +385,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0744-network-delay-time](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [0770-couples-holding-hands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -405,6 +408,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0770-couples-holding-hands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0770-couples-holding-hands) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
