@@ -103,6 +103,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1127-last-stone-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1325-path-with-maximum-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1390-four-divisors](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -224,6 +225,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0415-add-strings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0912-random-pick-with-weight](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0912-random-pick-with-weight) |
+| [1266-minimum-time-visiting-all-points](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-airplane-seat-assignment-probability](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1362-airplane-seat-assignment-probability) |
 | [1390-four-divisors](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -616,4 +618,5 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
