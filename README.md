@@ -40,6 +40,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Bit Manipulation
@@ -373,6 +374,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
 ## Depth-First Search
 |  |
 | ------- |
