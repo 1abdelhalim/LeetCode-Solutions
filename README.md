@@ -27,6 +27,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0944-delete-columns-to-make-sorted](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1156-occurrences-after-bigram](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1189-maximum-number-of-balloons](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1524-string-matching-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1720-crawler-log-folder) |
@@ -268,6 +269,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0931-maximum-frequency-stack](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [1023-time-based-key-value-store](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1189-maximum-number-of-balloons](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -367,6 +369,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0387-first-unique-character-in-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1708-design-parking-system](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1708-design-parking-system) |
