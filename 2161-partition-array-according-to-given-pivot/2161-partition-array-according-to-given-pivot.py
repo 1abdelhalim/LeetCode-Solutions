@@ -1,20 +1,15 @@
 class Solution:
     def pivotArray(self, nums: List[int], pivot: int) -> List[int]:
-        result = []
+        less = []
+        equal = []
+        greater = []
 
         for num in nums:
-            if num == pivot:
-                result.append(num)
+            if num < pivot:
+                less.append(num)
+            elif num == pivot:
+                equal.append(num)
+            else:
+                greater.append(num)
 
-        for num in nums:
-            if num > pivot:
-                result.append(num)
-
-        temp = []
-        for num in nums:
-            if pivot > num:
-                temp.append(num)
-
-        final = temp + result
-
-        return final
+        return less + equal + greater
