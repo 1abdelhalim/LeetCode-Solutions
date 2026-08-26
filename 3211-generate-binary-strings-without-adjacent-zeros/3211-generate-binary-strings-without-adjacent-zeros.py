@@ -1,16 +1,16 @@
-import itertools
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-       count = 0 
-       if n == 1:
-        return ["0","1"]
+        valid_strs = []
 
-       comps =  itertools.product('01', repeat=n)
-       bin_strs = [''.join(comp) for comp in comps]
-
-       valid_strs = []
-       for bin_str in bin_strs:
-           if "00" not in bin_str:
-               valid_strs.append(bin_str)
+        def backtrack(curr_str):
+            if len(curr_str) == n:
+                valid_strs.append(curr_str)
+                return
+            backtrack(curr_str + '1')
+ 
+            if not curr_str or curr_str[-1] != '0':
+                backtrack(curr_str + '0')
+                
+        backtrack("")
         
-       return valid_strs
+        return valid_strs
