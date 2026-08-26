@@ -42,6 +42,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2833-furthest-point-from-origin) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -62,6 +63,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
@@ -563,6 +565,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Database
 |  |
 | ------- |
