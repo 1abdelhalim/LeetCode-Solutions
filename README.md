@@ -152,6 +152,7 @@ This repository contains solutions for problems found on LeetCode.
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3895-count-digit-appearances](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,6 +247,7 @@ This repository contains solutions for problems found on LeetCode.
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3895-count-digit-appearances](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
 | ------- |
