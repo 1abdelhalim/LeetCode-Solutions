@@ -2,8 +2,10 @@ class Solution:
     def countDigitOccurrences(self, nums: list[int], digit: int) -> int:
         count = 0 
         for num in nums:
-            for dig in str(num):
-                if int(dig) == digit:
+            while num:
+                temp = num % 10 
+                num //= 10
+                if temp == digit:
                     count += 1 
 
 
