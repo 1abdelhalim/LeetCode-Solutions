@@ -38,6 +38,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2487-optimal-partition-of-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -135,6 +136,7 @@ This repository contains solutions for problems found on LeetCode.
 | [2292-counting-words-with-a-given-prefix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2502-sort-the-people](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -538,6 +540,7 @@ This repository contains solutions for problems found on LeetCode.
 | [1537-maximum-score-after-splitting-a-string](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Concurrency
 |  |
 | ------- |
