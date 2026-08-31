@@ -228,6 +228,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
