@@ -77,6 +77,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0039-combination-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0078-subsets) |
@@ -229,6 +230,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0292-nim-game](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0292-nim-game) |
@@ -317,6 +319,7 @@ This repository contains solutions for problems found on LeetCode.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
