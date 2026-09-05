@@ -80,6 +80,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0048-rotate-image](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -268,6 +269,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
@@ -320,6 +322,7 @@ This repository contains solutions for problems found on LeetCode.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
