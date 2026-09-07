@@ -404,6 +404,7 @@ This repository contains solutions for problems found on LeetCode.
 | [0207-course-schedule](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0386-lexicographical-numbers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
@@ -446,6 +447,7 @@ This repository contains solutions for problems found on LeetCode.
 | ------- |
 | [0139-word-break](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/0648-replace-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/1abdelhalim/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
